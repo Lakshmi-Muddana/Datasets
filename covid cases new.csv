@@ -1,13 +1,13 @@
 State,positive cases
 Andaman ,18
 AP,895
-Arunachal ,1
+NE,6
 Assam ,35
 Bihar ,148
 Chandigarh ,27
 Chhattisgarh ,36
 Delhi ,2248
-Goa ,7
+Goa pond,14
 Gujarat ,2407
 Haryana ,262
 Himachal,40
@@ -18,16 +18,12 @@ Kerala ,438
 Ladakh,18
 MP,1695
 Maharashtra ,5652
-Manipur ,2
 Meghalaya ,12
-Mizoram ,1
 Odisha ,83
-Puducherry ,7
 Punjab ,277
 Rajasthan ,1890
 TN,1629
 Telangana ,960
-Tripura ,2
 Uttarakhand ,46
 UP ,1509
 WB,456
